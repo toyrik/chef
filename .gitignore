@@ -2,3 +2,4 @@
 /docker/logs/*
 /docker/mysql/*
 /db
+.idea
